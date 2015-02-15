@@ -1,4 +1,4 @@
-Arduino implementation for the original Novation Launchpad
+Arduino implementation for the original Novation Launchpad. This is a hack and just a quick test, but atleast you will get it working. Fork it, enhance it!
 
 requires: USBH_MIDI library https://github.com/YuuichiAkagawa/USBH_MIDI
 
