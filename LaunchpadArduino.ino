@@ -5,6 +5,8 @@
 // Original Launchpad
 // Arduino Uno or Duemilanova or compatible
 
+// This is awful code, just a mockup. Since I'm not going to develop this, I'm releasing it as it is.
+
 #include <Usb.h>
 #include <usbh_midi.h>
 
